@@ -18,7 +18,7 @@ This project showcases the core logic behind a simple casino game. It’s design
 - 🃏 Simple betting interface
 - 🧩 Modular code structure for easy extension
 - ⚙️ Deployed on Vercel for fast and reliable delivery
-
+.
 ---
 
 ## 🚀 Getting Started
